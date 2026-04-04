@@ -2,7 +2,7 @@
   <img src="images/claude-logo.svg" alt="Claude" width="80">
 </p>
 
-# Claude 註冊使用指南
+# Claude 註冊使用指南(2026)
 
 本指南專為香港及澳門用戶而設，教你如何註冊並使用 Claude —— Anthropic 開發的 AI 助手。
 
